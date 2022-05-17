@@ -1,13 +1,41 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
+  font-family: 'Open Sans';
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: #F8F8F8;
+  
+ 
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+@keyframes rotate {
+  0%   { transform: rotate(0); }
+  20%  { transform: rotate(30deg); }
+  40%  { transform: rotate(60deg); }
+  60%  { transform: rotate(90deg); }
+  80%  { transform: rotate(180deg); }
+  100% { transform: rotate(360deg); }
+}
+html {
+  scroll-behavior: smooth;
+}
+.Header{
+  background-image: url(./images/Dumples.svg);
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 90%;
+  height:100vh;
+  animation : background-image rotate 5s;
+}
+/*About**/
+.About{
+  background-color: white;
 }
