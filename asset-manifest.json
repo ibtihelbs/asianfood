@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/asianfood/static/css/main.74ccf159.css",
+    "main.js": "/asianfood/static/js/main.885c0907.js",
+    "static/js/787.53e5abcc.chunk.js": "/asianfood/static/js/787.53e5abcc.chunk.js",
+    "static/media/item5.jpg": "/asianfood/static/media/item5.d627fd63a177736e3725.jpg",
+    "static/media/item1.jpg": "/asianfood/static/media/item1.dece1f8b7e112c3c5045.jpg",
+    "static/media/item3.jpg": "/asianfood/static/media/item3.89a113caa29bc898f6c3.jpg",
+    "static/media/item4.jpg": "/asianfood/static/media/item4.8e433b58c4cb3e94ffc8.jpg",
+    "static/media/item2.jpg": "/asianfood/static/media/item2.f39a86ae9bc4af26c08c.jpg",
+    "static/media/item6.jpg": "/asianfood/static/media/item6.32bbe063aea286e6aeaa.jpg",
+    "static/media/RestaurantFront.svg": "/asianfood/static/media/RestaurantFront.2f14d8062846c1086ebe30cadd5b89e2.svg",
+    "static/media/map.jpg": "/asianfood/static/media/map.051befdffbcc71380ebd.jpg",
+    "static/media/Dumples.svg": "/asianfood/static/media/Dumples.f4daacc7747d83513313.svg",
+    "static/media/Logo-white.svg": "/asianfood/static/media/Logo-white.4b20e0720db434c374b89bfcc7a66509.svg",
+    "static/media/logo-grey.svg": "/asianfood/static/media/logo-grey.c8d87f4bfcb5c9e6548b9beaffd7fcdb.svg",
+    "static/media/logo-red.svg": "/asianfood/static/media/logo-red.52851be1ecdbecdd46ba17ca9a897141.svg",
+    "index.html": "/asianfood/index.html",
+    "main.74ccf159.css.map": "/asianfood/static/css/main.74ccf159.css.map",
+    "main.885c0907.js.map": "/asianfood/static/js/main.885c0907.js.map",
+    "787.53e5abcc.chunk.js.map": "/asianfood/static/js/787.53e5abcc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.74ccf159.css",
+    "static/js/main.885c0907.js"
+  ]
+}
